@@ -23,7 +23,8 @@
 
 ## ダウンロード
 
-[山林所得の計算のしかたExcel](./山林所得の計算のしかたexcel.xlsx)
+[山林所得の計算のしかたExcel](https://raw.githubusercontent.com/pukkunk/sanrin-income-tax-excel/main/%E5%B1%B1%E6%9E%97%E6%89%80%E5%BE%97%E3%81%AE%E8%A8%88%E7%AE%97%E3%81%AE%E3%81%97%E3%81%8B%E3%81%9Fexcel.xlsx)
+
 
 ## 注意事項
 
